@@ -1,1 +1,4 @@
 fichero 1
+
+
+tE RESUELVO EL BUG
